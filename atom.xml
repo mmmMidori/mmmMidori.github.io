@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/mmmMidori/mmmMidori.github.io.git</id>
+    <title>chez Midori</title>
+    <updated>2019-05-26T15:45:41.198Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/mmmMidori/mmmMidori.github.io.git"/>
+    <link rel="self" href="https://github.com/mmmMidori/mmmMidori.github.io.git/atom.xml"/>
+    <subtitle>a leaping heart</subtitle>
+    <logo>https://github.com/mmmMidori/mmmMidori.github.io.git/images/avatar.png</logo>
+    <icon>https://github.com/mmmMidori/mmmMidori.github.io.git/favicon.ico</icon>
+    <rights>All rights reserved 2019, chez Midori</rights>
+    <entry>
+        <title type="html"><![CDATA[写在27岁的开头]]></title>
+        <id>https://github.com/mmmMidori/mmmMidori.github.io.git/post/xie-zai-27-sui-de-kai-tou</id>
+        <link href="https://github.com/mmmMidori/mmmMidori.github.io.git/post/xie-zai-27-sui-de-kai-tou">
+        </link>
+        <updated>2019-05-26T13:29:29.000Z</updated>
+        <content type="html"><![CDATA[<p>长大了呢</p>
+]]></content>
+    </entry>
+</feed>
